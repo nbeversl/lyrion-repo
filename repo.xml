@@ -1,8 +1,9 @@
 <extensions>
 	<plugins>
-		<plugin name="Fleck" version="0.0.7" minTarget="7.9.0" maxTarget="*" category="skin" creator="Craig Drummond" link="" maxTarget="*" minTarget="7.9.0" sha="9b084b8107d3e68c080c25223ac4f7598c9a6227" url="https://github.com/nbeversl/fleck-lyrion/archive/refs/tags/0.0.71.zip" version="0.0.71">
+		<plugin name="Fleck" minTarget="7.9.0" maxTarget="*" category="skin" link="" sha="9b084b8107d3e68c080c25223ac4f7598c9a6227" url="https://github.com/nbeversl/fleck-lyrion/archive/refs/tags/0.0.71.zip" version="0.0.71">
 	      <desc lang="EN">description here</desc>
 	      <title lang="EN">Fleck Skin</title>
 		</plugin>
 	</plugins>
 </extensions>
+
