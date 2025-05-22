@@ -1,9 +1,16 @@
 <extensions>
+	<details>
+		<title lang="EN">nbeversl Lyrion plugins</title>
+	</details>
 	<plugins>
-		<plugin name="Fleck" minTarget="7.9.0" maxTarget="*" category="skin" link="" sha="9b084b8107d3e68c080c25223ac4f7598c9a6227" url="https://github.com/nbeversl/fleck-lyrion/archive/refs/tags/0.0.71.zip" version="0.0.71">
-	      <desc lang="EN">description here</desc>
-	      <title lang="EN">Fleck Skin</title>
+		<plugin name="Fleck" version="0.0.71" minTarget="7.9.0" maxTarget="*">
+			<title lang="EN">Fleck Skin</title>
+			<desc lang="EN">A skin focused on album art, easy browsing by disc, and thorough search functionality. Plays to the client device through the browser. Optimized for mobile screens.</desc>
+			<category>skins</category>
+			<url>https://github.com/nbeversl/fleck-lyrion/archive/refs/tags/0.0.71.zip</url>
+			<link>https://fleck-theme.org/</link>
+			<creator>nbeversl</creator>
+			<sha>625f4bc4edf4422891ac9ed89c6f71410bc36a73</sha>
 		</plugin>
 	</plugins>
 </extensions>
-
