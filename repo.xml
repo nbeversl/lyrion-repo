@@ -3,7 +3,7 @@
 		<title lang="EN">nbeversl Lyrion plugins</title>
 	</details>
 	<plugins>
-		<plugin name="Fleck" version="0.0.71" minTarget="7.9.0" maxTarget="*">
+		<plugin name="Fleck" version="0.0.72" minTarget="7.9.0" maxTarget="*">
 			<title lang="EN">Fleck Skin</title>
 			<desc lang="EN">A skin focused on album art, easy browsing by disc, and thorough search functionality. Plays to the client device through the browser. Optimized for mobile screens.</desc>
 			<category>skins</category>
